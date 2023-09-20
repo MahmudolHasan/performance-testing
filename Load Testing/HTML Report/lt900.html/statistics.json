@@ -1,0 +1,34 @@
+{
+  "Authentication (Post)" : {
+    "transaction" : "Authentication (Post)",
+    "sampleCount" : 900,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1719.0555555555547,
+    "medianResTime" : 1360.0,
+    "minResTime" : 1124.0,
+    "maxResTime" : 23393.0,
+    "pct1ResTime" : 2624.8999999999996,
+    "pct2ResTime" : 3304.0499999999975,
+    "pct3ResTime" : 5317.640000000001,
+    "throughput" : 8.585082941440195,
+    "receivedKBytesPerSec" : 2.272028786260052,
+    "sentKBytesPerSec" : 2.448090057520056
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 900,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1719.0555555555547,
+    "medianResTime" : 1360.0,
+    "minResTime" : 1124.0,
+    "maxResTime" : 23393.0,
+    "pct1ResTime" : 2624.8999999999996,
+    "pct2ResTime" : 3304.0499999999975,
+    "pct3ResTime" : 5317.640000000001,
+    "throughput" : 8.585082941440195,
+    "receivedKBytesPerSec" : 2.272028786260052,
+    "sentKBytesPerSec" : 2.448090057520056
+  }
+}
