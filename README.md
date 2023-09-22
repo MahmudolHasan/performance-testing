@@ -143,7 +143,7 @@ See [Report Generation](#report-generation) section to  create a jtl  file and g
 
 
 ### Stress Test Verdict
-The server response times were high, around 100-115 threads,  but the average response time became lower as the thread increased.Also, the error occurs when the thread limit was higher than 110. 
+The server response times were high, around 100-115 threads,  but the average response time became lower as the thread terminated and load became gradually more normal. Also, the error occurred when the thread limit was higher than 110. 
 
 ## Endurance Test
 
