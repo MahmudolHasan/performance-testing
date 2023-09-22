@@ -173,8 +173,9 @@ The test aimed to assess the server's responsiveness when subjected to a sudden,
 ### Spike Test Report Generation
 See [Report Generation](#report-generation) section to  create a jtl  file and generate the report.
 ### Spike Test Result Analysis 
-*To be Added*
+| Request Summary | Statistics |
+| :-------------: | :--------: |
+| ![Pie Chart](images/Load_Testing/r110pi.PNG) | ![Request Stats](images/Spike_Testing/spike_stats.PNG) |
 ### Spike Test Verdict
-*To be Added*
-  
+We can see that during the spike the servers was stable and could send response back.
   
