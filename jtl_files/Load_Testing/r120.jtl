@@ -1,0 +1,481 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695276682784,1794,HTTP Request - About Us,200,OK,Thread Group 1-3,text,true,,65565,615,120,120,https://www.banglapuzzle.com/about,1626,0,577
+1695276666777,1794,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,65565,615,120,120,null,1626,16020,577
+1695276682951,2630,HTTP Request - About Us,200,OK,Thread Group 1-5,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,2217,0,411
+1695276666943,2630,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,65570,615,120,120,null,2217,16011,411
+1695276683030,2847,HTTP Request - About Us,200,OK,Thread Group 1-6,text,true,,65558,615,120,120,https://www.banglapuzzle.com/about,1949,0,324
+1695276667023,2847,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,65558,615,120,120,null,1949,16008,324
+1695276682870,3044,HTTP Request - About Us,200,OK,Thread Group 1-4,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,2766,0,519
+1695276666860,3044,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,65564,615,120,120,null,2766,16011,519
+1695276683442,3723,HTTP Request - About Us,200,OK,Thread Group 1-11,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,2270,0,49
+1695276667436,3723,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,,65568,615,120,120,null,2270,16008,49
+1695276683205,4014,HTTP Request - About Us,200,OK,Thread Group 1-8,text,true,,65579,615,120,120,https://www.banglapuzzle.com/about,3716,0,175
+1695276667189,4014,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,65579,615,120,120,null,3716,16019,175
+1695276683681,3595,HTTP Request - About Us,200,OK,Thread Group 1-14,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,2067,0,53
+1695276667672,3595,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,,65566,615,120,120,null,2067,16010,53
+1695276683838,4060,HTTP Request - About Us,200,OK,Thread Group 1-16,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,1778,0,65
+1695276667827,4060,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,,65564,615,120,120,null,1778,16017,65
+1695276684813,3158,HTTP Request - About Us,200,OK,Thread Group 1-28,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,2867,0,2150
+1695276668806,3158,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,,65562,615,120,120,null,2867,16008,2150
+1695276685131,3253,HTTP Request - About Us,200,OK,Thread Group 1-32,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,1091,0,205
+1695276669122,3253,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,,65562,615,120,120,null,1091,16010,205
+1695276682718,5773,HTTP Request - About Us,200,OK,Thread Group 1-2,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,2647,0,667
+1695276666710,5773,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,65564,615,120,120,null,2647,16010,667
+1695276686440,2361,HTTP Request - About Us,200,OK,Thread Group 1-48,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,975,0,259
+1695276670434,2361,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,,65566,615,120,120,null,975,16008,259
+1695276684249,4564,HTTP Request - About Us,200,OK,Thread Group 1-21,text,true,,65572,615,120,120,https://www.banglapuzzle.com/about,2061,0,56
+1695276668240,4564,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,,65572,615,120,120,null,2061,16011,56
+1695276684081,4798,HTTP Request - About Us,200,OK,Thread Group 1-19,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,1991,0,59
+1695276668073,4798,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,,65566,615,120,120,null,1991,16010,59
+1695276683292,5600,HTTP Request - About Us,200,OK,Thread Group 1-9,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,1957,0,74
+1695276667271,5600,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,65570,615,120,120,null,1957,16024,74
+1695276687006,1929,HTTP Request - About Us,200,OK,Thread Group 1-55,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,1587,0,906
+1695276671000,1929,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,,65566,615,120,120,null,1587,16008,906
+1695276684563,4451,HTTP Request - About Us,200,OK,Thread Group 1-25,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,1603,0,40
+1695276668556,4451,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,,65566,615,120,120,null,1603,16010,40
+1695276685485,3700,HTTP Request - About Us,200,OK,Thread Group 1-36,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,1145,0,247
+1695276669479,3700,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,,65566,615,120,120,null,1145,16009,247
+1695276685969,3233,HTTP Request - About Us,200,OK,Thread Group 1-42,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,2627,0,1955
+1695276669963,3233,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,,65564,615,120,120,null,2627,16009,1955
+1695276684481,5015,HTTP Request - About Us,200,OK,Thread Group 1-24,text,true,,65571,615,120,120,https://www.banglapuzzle.com/about,1656,0,45
+1695276668473,5015,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,,65571,615,120,120,null,1656,16010,45
+1695276686922,2718,HTTP Request - About Us,200,OK,Thread Group 1-54,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,1385,0,555
+1695276670917,2718,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,,65570,615,120,120,null,1385,16006,555
+1695276684398,5533,HTTP Request - About Us,200,OK,Thread Group 1-23,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,1894,0,77
+1695276668391,5533,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,,65568,615,120,120,null,1894,16008,77
+1695276685046,5651,HTTP Request - About Us,200,OK,Thread Group 1-31,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,2430,0,689
+1695276669039,5651,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,,65566,615,120,120,null,2430,16010,689
+1695276687173,4199,HTTP Request - About Us,200,OK,Thread Group 1-57,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,2685,0,1813
+1695276671168,4199,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,,65568,615,120,120,null,2685,16007,1813
+1695276685212,6315,HTTP Request - About Us,200,OK,Thread Group 1-33,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,1237,0,208
+1695276669205,6315,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,,65570,615,120,120,null,1237,16008,208
+1695276687335,4558,HTTP Request - About Us,200,OK,Thread Group 1-59,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,3186,0,2278
+1695276671330,4558,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,,65566,615,120,120,null,3186,16007,2278
+1695276688005,4102,HTTP Request - About Us,200,OK,Thread Group 1-67,text,true,,65586,615,120,120,https://www.banglapuzzle.com/about,1657,0,393
+1695276671996,4102,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,,65586,615,120,120,null,1657,16011,393
+1695276684728,8056,HTTP Request - About Us,200,OK,Thread Group 1-27,text,true,,65574,615,120,120,https://www.banglapuzzle.com/about,1645,0,25
+1695276668722,8056,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,,65574,615,120,120,null,1645,16009,25
+1695276683996,9435,HTTP Request - About Us,200,OK,Thread Group 1-18,text,true,,65571,615,120,120,https://www.banglapuzzle.com/about,1987,0,30
+1695276667990,9435,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,,65571,615,120,120,null,1987,16011,30
+1695276691343,2213,HTTP Request - About Us,200,OK,Thread Group 1-107,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,798,0,78
+1695276675337,2213,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-107,,true,,65570,615,120,120,null,798,16008,78
+1695276688354,5446,HTTP Request - About Us,200,OK,Thread Group 1-71,text,true,,65576,615,120,120,https://www.banglapuzzle.com/about,3185,0,2554
+1695276683592,10210,HTTP Request - About Us,200,OK,Thread Group 1-13,text,true,,65578,615,120,120,https://www.banglapuzzle.com/about,2671,0,46
+1695276672349,5446,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,,65576,615,120,120,null,3185,16010,2554
+1695276667578,10210,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,,65578,615,120,120,null,2671,16018,46
+1695276684978,8916,HTTP Request - About Us,200,OK,Thread Group 1-30,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,4631,0,3524
+1695276668970,8916,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,,65570,615,120,120,null,4631,16009,3524
+1695276683392,10549,HTTP Request - About Us,200,OK,Thread Group 1-10,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,1874,0,41
+1695276667353,10549,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,65568,615,120,120,null,1874,16039,41
+1695276688602,5511,HTTP Request - About Us,200,OK,Thread Group 1-74,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,4282,0,2085
+1695276672596,5511,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,,65564,615,120,120,null,4282,16008,2085
+1695276685737,8627,HTTP Request - About Us,200,OK,Thread Group 1-39,text,true,,65575,615,120,120,https://www.banglapuzzle.com/about,4745,0,3748
+1695276669731,8627,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,,65575,615,120,120,null,4745,16007,3748
+1695276688686,5751,HTTP Request - About Us,200,OK,Thread Group 1-75,text,true,,65573,615,120,120,https://www.banglapuzzle.com/about,2255,0,1352
+1695276672680,5751,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,,65573,615,120,120,null,2255,16008,1352
+1695276689189,5299,HTTP Request - About Us,200,OK,Thread Group 1-81,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,4841,0,3358
+1695276673182,5299,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,,65568,615,120,120,null,4841,16009,3358
+1695276690594,4197,HTTP Request - About Us,200,OK,Thread Group 1-98,text,true,,65569,615,120,120,https://www.banglapuzzle.com/about,3699,0,2338
+1695276674590,4197,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-98,,true,,65569,615,120,120,null,3699,16009,2338
+1695276685571,9379,HTTP Request - About Us,200,OK,Thread Group 1-37,text,true,,65573,615,120,120,https://www.banglapuzzle.com/about,6125,0,5323
+1695276669564,9379,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,,65573,615,120,120,null,6125,16007,5323
+1695276690033,4976,HTTP Request - About Us,200,OK,Thread Group 1-91,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,3398,0,1673
+1695276674025,4976,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-91,,true,,65568,615,120,120,null,3398,16011,1673
+1695276683116,12020,HTTP Request - About Us,200,OK,Thread Group 1-7,text,true,,65560,615,120,120,https://www.banglapuzzle.com/about,2369,0,243
+1695276667107,12020,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,65560,615,120,120,null,2369,16010,243
+1695276688100,7049,HTTP Request - About Us,200,OK,Thread Group 1-68,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,2743,0,1925
+1695276672079,7049,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,,65568,615,120,120,null,2743,16023,1925
+1695276684895,10365,HTTP Request - About Us,200,OK,Thread Group 1-29,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,7791,0,6403
+1695276668888,10365,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,,65562,615,120,120,null,7791,16007,6403
+1695276687584,7710,HTTP Request - About Us,200,OK,Thread Group 1-62,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,2015,0,720
+1695276671579,7710,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,,65564,615,120,120,null,2015,16007,720
+1695276684648,10707,HTTP Request - About Us,200,OK,Thread Group 1-26,text,true,,65567,615,120,120,https://www.banglapuzzle.com/about,1686,0,39
+1695276668638,10707,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,,65567,615,120,120,null,1686,16010,39
+1695276687256,8145,HTTP Request - About Us,200,OK,Thread Group 1-58,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,3649,0,2873
+1695276671249,8145,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,,65564,615,120,120,null,3649,16009,2873
+1695276687835,7575,HTTP Request - About Us,200,OK,Thread Group 1-65,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,7021,0,6279
+1695276671831,7575,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,,65566,615,120,120,null,7021,16005,6279
+1695276689356,6471,HTTP Request - About Us,200,OK,Thread Group 1-83,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,2479,0,706
+1695276673348,6471,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,,65566,615,120,120,null,2479,16013,706
+1695276686223,9643,HTTP Request - About Us,200,OK,Thread Group 1-45,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,9222,0,8576
+1695276670216,9643,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,,65568,615,120,120,null,9222,16011,8576
+1695276686056,9939,HTTP Request - About Us,200,OK,Thread Group 1-43,text,true,,65573,615,120,120,https://www.banglapuzzle.com/about,3125,0,856
+1695276670050,9939,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,,65573,615,120,120,null,3125,16008,856
+1695276686772,9252,HTTP Request - About Us,200,OK,Thread Group 1-52,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,976,0,251
+1695276670766,9252,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,,65568,615,120,120,null,976,16008,251
+1695276692324,3898,HTTP Request - About Us,200,OK,Thread Group 1-119,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,2039,0,786
+1695276676318,3898,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-119,,true,,65570,615,120,120,null,2039,16014,786
+1695276690763,5627,HTTP Request - About Us,200,OK,Thread Group 1-100,text,true,,65571,615,120,120,https://www.banglapuzzle.com/about,4950,0,4102
+1695276674758,5627,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-100,,true,,65571,615,120,120,null,4950,16010,4102
+1695276692407,4050,HTTP Request - About Us,200,OK,Thread Group 1-120,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,3154,0,2540
+1695276676401,4050,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-120,,true,,65566,615,120,120,null,3154,16007,2540
+1695276684333,12191,HTTP Request - About Us,200,OK,Thread Group 1-22,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,5872,0,55
+1695276668323,12191,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,,65562,615,120,120,null,5872,16013,55
+1695276690280,6249,HTTP Request - About Us,200,OK,Thread Group 1-94,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,1783,0,894
+1695276674274,6249,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-94,,true,,65568,615,120,120,null,1783,16010,894
+1695276686390,10170,HTTP Request - About Us,200,OK,Thread Group 1-47,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,9258,0,8494
+1695276670383,10170,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,,65564,615,120,120,null,9258,16010,8494
+1695276691840,4756,HTTP Request - About Us,200,OK,Thread Group 1-113,text,true,,65573,615,120,120,https://www.banglapuzzle.com/about,2535,0,1468
+1695276675834,4756,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-113,,true,,65573,615,120,120,null,2535,16007,1468
+1695276688773,7935,HTTP Request - About Us,200,OK,Thread Group 1-76,text,true,,65573,615,120,120,https://www.banglapuzzle.com/about,1286,0,339
+1695276672763,7935,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,,65573,615,120,120,null,1286,16012,339
+1695276689271,7488,HTTP Request - About Us,200,OK,Thread Group 1-82,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,3067,0,1602
+1695276673265,7488,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,,65570,615,120,120,null,3067,16008,1602
+1695276687919,8890,HTTP Request - About Us,200,OK,Thread Group 1-66,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,1463,0,464
+1695276671913,8890,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,,65566,615,120,120,null,1463,16010,464
+1695276690845,5976,HTTP Request - About Us,200,OK,Thread Group 1-101,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,5229,0,4491
+1695276674840,5976,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-101,,true,,65562,615,120,120,null,5229,16009,4491
+1695276691914,4993,HTTP Request - About Us,200,OK,Thread Group 1-114,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,4742,0,3346
+1695276675907,4993,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-114,,true,,65564,615,120,120,null,4742,16012,3346
+1695276690197,6854,HTTP Request - About Us,200,OK,Thread Group 1-93,text,true,,65574,615,120,120,https://www.banglapuzzle.com/about,988,0,290
+1695276674192,6854,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-93,,true,,65574,615,120,120,null,988,16007,290
+1695276691094,6005,HTTP Request - About Us,200,OK,Thread Group 1-104,text,true,,65586,615,120,120,https://www.banglapuzzle.com/about,2163,0,1529
+1695276675088,6005,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-104,,true,,65586,615,120,120,null,2163,16008,1529
+1695276687088,10195,HTTP Request - About Us,200,OK,Thread Group 1-56,text,true,,65569,615,120,120,https://www.banglapuzzle.com/about,6938,0,2127
+1695276671083,10195,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,,65569,615,120,120,null,6938,16009,2127
+1695276686522,11010,HTTP Request - About Us,200,OK,Thread Group 1-49,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,8530,0,6307
+1695276670516,11010,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,,65564,615,120,120,null,8530,16006,6307
+1695276690927,6740,HTTP Request - About Us,200,OK,Thread Group 1-102,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,6058,0,5053
+1695276674922,6740,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-102,,true,,65564,615,120,120,null,6058,16010,5053
+1695276686604,11113,HTTP Request - About Us,200,OK,Thread Group 1-50,text,true,,65574,615,120,120,https://www.banglapuzzle.com/about,10422,0,9674
+1695276670598,11113,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,,65574,615,120,120,null,10422,16008,9674
+1695276689687,8034,HTTP Request - About Us,200,OK,Thread Group 1-87,text,true,,65575,615,120,120,https://www.banglapuzzle.com/about,4777,0,3424
+1695276673683,8034,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,,65575,615,120,120,null,4777,16007,3424
+1695276689769,7985,HTTP Request - About Us,200,OK,Thread Group 1-88,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,4614,0,3242
+1695276673764,7985,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,,65564,615,120,120,null,4614,16009,3242
+1695276689023,8752,HTTP Request - About Us,200,OK,Thread Group 1-79,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,1637,0,586
+1695276688437,9338,HTTP Request - About Us,200,OK,Thread Group 1-72,text,true,,65575,615,120,120,https://www.banglapuzzle.com/about,2388,0,1166
+1695276672431,9338,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,,65575,615,120,120,null,2388,16008,1166
+1695276673016,8752,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,,65566,615,120,120,null,1637,16009,586
+1695276691758,6108,HTTP Request - About Us,200,OK,Thread Group 1-112,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,1863,0,866
+1695276689523,8342,HTTP Request - About Us,200,OK,Thread Group 1-85,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,3498,0,1907
+1695276675752,6108,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-112,,true,,65564,615,120,120,null,1863,16009,866
+1695276673514,8342,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,,65564,615,120,120,null,3498,16013,1907
+1695276691426,6489,HTTP Request - About Us,200,OK,Thread Group 1-108,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,2001,0,321
+1695276692079,5837,HTTP Request - About Us,200,OK,Thread Group 1-116,text,true,,65572,615,120,120,https://www.banglapuzzle.com/about,945,0,253
+1695276675422,6489,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-108,,true,,65568,615,120,120,null,2001,16008,321
+1695276676072,5837,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-116,,true,,65572,615,120,120,null,945,16010,253
+1695276691508,6684,HTTP Request - About Us,200,OK,Thread Group 1-109,text,true,,65570,615,120,120,https://www.banglapuzzle.com/about,6448,0,5781
+1695276675502,6684,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-109,,true,,65570,615,120,120,null,6448,16008,5781
+1695276689104,9109,HTTP Request - About Us,200,OK,Thread Group 1-80,text,true,,65573,615,120,120,https://www.banglapuzzle.com/about,7868,0,6933
+1695276673099,9109,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,,65573,615,120,120,null,7868,16009,6933
+1695276687671,10645,HTTP Request - About Us,200,OK,Thread Group 1-63,text,true,,65571,615,120,120,https://www.banglapuzzle.com/about,3457,0,2697
+1695276671663,10645,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,,65571,615,120,120,null,3457,16012,2697
+1695276688252,10080,HTTP Request - About Us,200,OK,Thread Group 1-70,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,1850,0,767
+1695276691996,6337,HTTP Request - About Us,200,OK,Thread Group 1-115,text,true,,65560,615,120,120,https://www.banglapuzzle.com/about,4950,0,4135
+1695276672245,10080,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,,65564,615,120,120,null,1850,16010,767
+1695276675989,6337,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-115,,true,,65560,615,120,120,null,4950,16009,4135
+1695276690447,7899,HTTP Request - About Us,200,OK,Thread Group 1-96,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,1320,0,637
+1695276674440,7899,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-96,,true,,65562,615,120,120,null,1320,16009,637
+1695276683522,14852,HTTP Request - About Us,200,OK,Thread Group 1-12,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,2731,0,58
+1695276667517,14852,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,,65562,615,120,120,null,2731,16006,58
+1695276686307,12185,HTTP Request - About Us,200,OK,Thread Group 1-46,text,true,,65575,615,120,120,https://www.banglapuzzle.com/about,5517,0,2415
+1695276670300,12185,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,,65575,615,120,120,null,5517,16009,2415
+1695276688935,9571,HTTP Request - About Us,200,OK,Thread Group 1-78,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,9187,0,8560
+1695276672930,9571,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,,65566,615,120,120,null,9187,16011,8560
+1695276688168,10343,HTTP Request - About Us,200,OK,Thread Group 1-69,text,true,,65581,615,120,120,https://www.banglapuzzle.com/about,3594,0,2125
+1695276672161,10343,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,,65581,615,120,120,null,3594,16011,2125
+1695276688519,9997,HTTP Request - About Us,200,OK,Thread Group 1-73,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,2871,0,1525
+1695276672514,9997,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,,65566,615,120,120,null,2871,16007,1525
+1695276685806,12750,HTTP Request - About Us,200,OK,Thread Group 1-40,text,true,,65573,615,120,120,https://www.banglapuzzle.com/about,3900,0,2904
+1695276669799,12750,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,,65573,615,120,120,null,3900,16008,2904
+1695276692160,6453,HTTP Request - About Us,200,OK,Thread Group 1-117,text,true,,65575,615,120,120,https://www.banglapuzzle.com/about,1746,0,254
+1695276676154,6453,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-117,,true,,65575,615,120,120,null,1746,16007,254
+1695276690365,8357,HTTP Request - About Us,200,OK,Thread Group 1-95,text,true,,65577,615,120,120,https://www.banglapuzzle.com/about,4889,0,270
+1695276674357,8357,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-95,,true,,65577,615,120,120,null,4889,16009,270
+1695276683917,14823,HTTP Request - About Us,200,OK,Thread Group 1-17,text,true,,65575,615,120,120,https://www.banglapuzzle.com/about,2290,0,51
+1695276667908,14823,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,,65575,615,120,120,null,2290,16010,51
+1695276690679,8123,HTTP Request - About Us,200,OK,Thread Group 1-99,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,2129,0,297
+1695276674674,8123,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-99,,true,,65568,615,120,120,null,2129,16007,297
+1695276691177,7628,HTTP Request - About Us,200,OK,Thread Group 1-105,text,true,,65560,615,120,120,https://www.banglapuzzle.com/about,1931,0,1175
+1695276675172,7628,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-105,,true,,65560,615,120,120,null,1931,16007,1175
+1695276691590,7277,HTTP Request - About Us,200,OK,Thread Group 1-110,text,true,,65562,615,120,120,https://www.banglapuzzle.com/about,7022,0,482
+1695276675586,7277,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-110,,true,,65562,615,120,120,null,7022,16007,482
+1695276685887,12996,HTTP Request - About Us,200,OK,Thread Group 1-41,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,1356,0,210
+1695276669881,12996,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,,65566,615,120,120,null,1356,16008,210
+1695276690114,8870,HTTP Request - About Us,200,OK,Thread Group 1-92,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,6163,0,4389
+1695276674108,8870,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-92,,true,,65566,615,120,120,null,6163,16008,4389
+1695276691676,7311,HTTP Request - About Us,200,OK,Thread Group 1-111,text,true,,65571,615,120,120,https://www.banglapuzzle.com/about,3207,0,1762
+1695276675669,7311,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-111,,true,,65571,615,120,120,null,3207,16008,1762
+1695276687424,11592,HTTP Request - About Us,200,OK,Thread Group 1-60,text,true,,65564,615,120,120,https://www.banglapuzzle.com/about,3183,0,1102
+1695276671415,11592,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,,65564,615,120,120,null,3183,16011,1102
+1695276688856,10182,HTTP Request - About Us,200,OK,Thread Group 1-77,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,1935,0,362
+1695276672848,10182,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,,65568,615,120,120,null,1935,16009,362
+1695276691011,8066,HTTP Request - About Us,200,OK,Thread Group 1-103,text,true,,65566,615,120,120,https://www.banglapuzzle.com/about,7874,0,7410
+1695276675005,8066,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-103,,true,,65566,615,120,120,null,7874,16007,7410
+1695276690527,8857,HTTP Request - About Us,200,OK,Thread Group 1-97,text,true,,65560,615,120,120,https://www.banglapuzzle.com/about,8604,0,8198
+1695276674522,8857,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-97,,true,,65560,615,120,120,null,8604,16008,8198
+1695276691260,8692,HTTP Request - About Us,200,OK,Thread Group 1-106,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,8276,0,7767
+1695276675254,8692,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-106,,true,,65568,615,120,120,null,8276,16009,7767
+1695276689618,10503,HTTP Request - About Us,200,OK,Thread Group 1-86,text,true,,65572,615,120,120,https://www.banglapuzzle.com/about,10225,0,9798
+1695276673598,10503,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,,65572,615,120,120,null,10225,16024,9798
+1695276689437,10706,HTTP Request - About Us,200,OK,Thread Group 1-84,text,true,,65568,615,120,120,https://www.banglapuzzle.com/about,2715,0,2020
+1695276673432,10706,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,,65568,615,120,120,null,2715,16007,2020
+1695276700245,455,HTTP Request - Carrer,200,OK,Thread Group 1-3,text,true,,44846,1315,120,120,https://www.banglapuzzle.com/career,385,0,0
+1695276684591,455,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,44846,1315,120,120,null,385,15657,0
+1695276682712,18747,HTTP Request - About Us,200,OK,Thread Group 1-1,text,true,,65568,615,119,119,https://www.banglapuzzle.com/about,2588,0,662
+1695276666624,18747,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,65568,615,119,119,null,2588,16085,662
+1695276685653,15839,HTTP Request - About Us,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,Thread Group 1-38,text,false,,2101,0,119,119,https://www.banglapuzzle.com/about,0,0,15837
+1695276669647,15839,About Us,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-38,,false,,2101,0,119,119,null,0,16007,15837
+1695276701237,550,HTTP Request - Carrer,200,OK,Thread Group 1-5,text,true,,44852,1315,119,119,https://www.banglapuzzle.com/career,470,0,0
+1695276685584,550,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,44852,1315,119,119,null,470,15657,0
+1695276692243,9715,HTTP Request - About Us,200,OK,Thread Group 1-118,text,true,,65564,615,118,118,https://www.banglapuzzle.com/about,9546,0,8782
+1695276676237,9715,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-118,,true,,65564,615,118,118,null,9546,16007,8782
+1695276701530,678,HTTP Request - Carrer,200,OK,Thread Group 1-6,text,true,,44852,1315,118,118,https://www.banglapuzzle.com/career,533,0,0
+1695276685879,678,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,44852,1315,118,118,null,533,15653,0
+1695276701567,653,HTTP Request - Carrer,200,OK,Thread Group 1-4,text,true,,44859,1315,117,117,https://www.banglapuzzle.com/career,533,0,0
+1695276685915,653,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,44859,1315,117,117,null,533,15654,0
+1695276689946,12347,HTTP Request - About Us,200,OK,Thread Group 1-90,text,true,,65566,615,116,116,https://www.banglapuzzle.com/about,1136,0,295
+1695276673940,12347,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-90,,true,,65566,615,116,116,null,1136,16007,295
+1695276689854,12560,HTTP Request - About Us,200,OK,Thread Group 1-89,text,true,,65568,615,116,116,https://www.banglapuzzle.com/about,12127,0,11625
+1695276673849,12560,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-89,,true,,65568,615,116,116,null,12127,16009,11625
+1695276687503,15494,HTTP Request - About Us,200,OK,Thread Group 1-61,text,true,,65570,615,116,116,https://www.banglapuzzle.com/about,3339,0,1883
+1695276671498,15494,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,,65570,615,116,116,null,3339,16008,1883
+1695276702819,485,HTTP Request - Carrer,200,OK,Thread Group 1-11,text,true,,44848,1315,116,116,https://www.banglapuzzle.com/career,413,0,0
+1695276687166,485,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,,44848,1315,116,116,null,413,15654,0
+1695276702874,514,HTTP Request - Carrer,200,OK,Thread Group 1-8,text,true,,44852,1315,115,115,https://www.banglapuzzle.com/career,439,0,0
+1695276687221,514,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,44852,1315,115,115,null,439,15654,0
+1695276702929,577,HTTP Request - Carrer,200,OK,Thread Group 1-14,text,true,,44846,1315,114,114,https://www.banglapuzzle.com/career,559,0,0
+1695276687276,577,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,,44846,1315,114,114,null,559,15655,0
+1695276703624,475,HTTP Request - Carrer,200,OK,Thread Group 1-28,text,true,,44852,1315,113,113,https://www.banglapuzzle.com/career,407,0,0
+1695276687972,475,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,,44852,1315,113,113,null,407,15652,0
+1695276703558,621,HTTP Request - Carrer,200,OK,Thread Group 1-16,text,true,,44852,1315,112,112,https://www.banglapuzzle.com/career,549,0,0
+1695276687903,621,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,,44852,1315,112,112,null,549,15656,0
+1695276704037,501,HTTP Request - Carrer,200,OK,Thread Group 1-32,text,true,,44848,1315,111,111,https://www.banglapuzzle.com/career,434,0,0
+1695276688384,501,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,,44848,1315,111,111,null,434,15655,0
+1695276704144,492,HTTP Request - Carrer,200,OK,Thread Group 1-2,text,true,,44848,1315,110,110,https://www.banglapuzzle.com/career,430,0,0
+1695276688492,492,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,44848,1315,110,110,null,430,15651,0
+1695276686688,18211,HTTP Request - About Us,200,OK,Thread Group 1-51,text,true,,65572,615,109,109,https://www.banglapuzzle.com/about,1097,0,237
+1695276670683,18211,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,,65572,615,109,109,null,1097,16009,237
+1695276704455,594,HTTP Request - Carrer,200,OK,Thread Group 1-48,text,true,,44861,1315,109,109,https://www.banglapuzzle.com/career,528,0,0
+1695276688802,594,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,,44861,1315,109,109,null,528,15654,0
+1695276704671,723,HTTP Request - Carrer,200,OK,Thread Group 1-25,text,true,,44850,1315,108,108,https://www.banglapuzzle.com/career,660,0,0
+1695276689017,723,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,,44850,1315,108,108,null,660,15657,0
+1695276704468,950,HTTP Request - Carrer,200,OK,Thread Group 1-21,text,true,,44842,1315,107,107,https://www.banglapuzzle.com/career,686,0,0
+1695276688814,950,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,,44842,1315,107,107,null,686,15655,0
+1695276704841,691,HTTP Request - Carrer,200,OK,Thread Group 1-36,text,true,,44848,1315,106,106,https://www.banglapuzzle.com/career,628,0,0
+1695276689188,691,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,,44848,1315,106,106,null,628,15654,0
+1695276704858,789,HTTP Request - Carrer,200,OK,Thread Group 1-42,text,true,,44844,1315,105,105,https://www.banglapuzzle.com/career,713,0,0
+1695276689204,789,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,,44844,1315,105,105,null,713,15655,0
+1695276704534,1195,HTTP Request - Carrer,200,OK,Thread Group 1-19,text,true,,44859,1315,104,104,https://www.banglapuzzle.com/career,1122,0,0
+1695276688881,1195,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,,44859,1315,104,104,null,1122,15655,0
+1695276704589,1230,HTTP Request - Carrer,200,OK,Thread Group 1-55,text,true,,44846,1315,103,103,https://www.banglapuzzle.com/career,1169,0,0
+1695276688936,1230,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,,44846,1315,103,103,null,1169,15655,0
+1695276705294,667,HTTP Request - Carrer,200,OK,Thread Group 1-54,text,true,,44846,1315,102,102,https://www.banglapuzzle.com/career,591,0,0
+1695276689641,667,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,,44846,1315,102,102,null,591,15655,0
+1695276705151,867,HTTP Request - Carrer,200,OK,Thread Group 1-24,text,true,,44848,1315,101,101,https://www.banglapuzzle.com/career,683,0,0
+1695276689498,867,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,,44848,1315,101,101,null,683,15654,0
+1695276683752,22469,HTTP Request - About Us,200,OK,Thread Group 1-15,text,true,,65580,615,100,100,https://www.banglapuzzle.com/about,2056,0,29
+1695276667743,22469,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,,65580,615,100,100,null,2056,16011,29
+1695276704549,1805,HTTP Request - Carrer,200,OK,Thread Group 1-9,text,true,,44850,1315,100,100,https://www.banglapuzzle.com/career,1286,0,0
+1695276688894,1805,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,44850,1315,100,100,null,1286,15656,0
+1695276705583,821,HTTP Request - Carrer,200,OK,Thread Group 1-23,text,true,,44858,1315,99,99,https://www.banglapuzzle.com/career,548,0,0
+1695276689931,821,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,,44858,1315,99,99,null,548,15654,0
+1695276685393,21371,HTTP Request - About Us,200,OK,Thread Group 1-35,text,true,,65568,615,98,98,https://www.banglapuzzle.com/about,1541,0,722
+1695276669387,21371,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,,65568,615,98,98,null,1541,16008,722
+1695276706351,534,HTTP Request - Carrer,200,OK,Thread Group 1-31,text,true,,44842,1315,98,98,https://www.banglapuzzle.com/career,424,0,0
+1695276690699,534,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,,44842,1315,98,98,null,424,15653,0
+1695276707026,483,HTTP Request - Carrer,200,OK,Thread Group 1-57,text,true,,44850,1315,97,97,https://www.banglapuzzle.com/career,416,0,0
+1695276691373,483,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,,44850,1315,97,97,null,416,15655,0
+1695276707546,509,HTTP Request - Carrer,200,OK,Thread Group 1-59,text,true,,44848,1315,96,96,https://www.banglapuzzle.com/career,397,0,0
+1695276691895,509,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,,44848,1315,96,96,null,397,15653,0
+1695276707181,876,HTTP Request - Carrer,200,OK,Thread Group 1-33,text,true,,44844,1315,96,96,https://www.banglapuzzle.com/career,516,0,0
+1695276691528,876,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,,44844,1315,96,96,null,516,15655,0
+1695276707762,493,HTTP Request - Carrer,200,OK,Thread Group 1-67,text,true,,44850,1315,94,94,https://www.banglapuzzle.com/career,422,0,0
+1695276692109,493,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,,44850,1315,94,94,null,422,15655,0
+1695276708439,924,HTTP Request - Carrer,200,OK,Thread Group 1-27,text,true,,44846,1315,93,93,https://www.banglapuzzle.com/career,540,0,0
+1695276692787,924,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,,44846,1315,93,93,null,540,15654,0
+1695276709088,466,HTTP Request - Carrer,200,OK,Thread Group 1-18,text,true,,44858,1315,92,92,https://www.banglapuzzle.com/career,397,0,0
+1695276693436,466,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,,44858,1315,92,92,null,397,15655,0
+1695276709210,552,HTTP Request - Carrer,200,OK,Thread Group 1-107,text,true,,44844,1315,91,91,https://www.banglapuzzle.com/career,482,0,0
+1695276693558,552,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-107,,true,,44844,1315,91,91,null,482,15653,0
+1695276709458,500,HTTP Request - Carrer,200,OK,Thread Group 1-71,text,true,,44848,1315,90,90,https://www.banglapuzzle.com/career,429,0,0
+1695276693806,500,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,,44848,1315,90,90,null,429,15655,0
+1695276709460,592,HTTP Request - Carrer,200,OK,Thread Group 1-13,text,true,,44852,1315,89,89,https://www.banglapuzzle.com/career,507,0,0
+1695276693807,592,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,,44852,1315,89,89,null,507,15655,0
+1695276709547,585,HTTP Request - Carrer,200,OK,Thread Group 1-30,text,true,,44850,1315,88,88,https://www.banglapuzzle.com/career,509,0,0
+1695276693895,585,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,,44850,1315,88,88,null,509,15654,0
+1695276709593,635,HTTP Request - Carrer,200,OK,Thread Group 1-10,text,true,,44842,1315,87,87,https://www.banglapuzzle.com/career,551,0,0
+1695276693941,635,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,44842,1315,87,87,null,551,15653,0
+1695276709766,680,HTTP Request - Carrer,200,OK,Thread Group 1-74,text,true,,44850,1315,86,86,https://www.banglapuzzle.com/career,467,0,0
+1695276694115,680,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,,44850,1315,86,86,null,467,15653,0
+1695276710091,498,HTTP Request - Carrer,200,OK,Thread Group 1-75,text,true,,44848,1315,85,85,https://www.banglapuzzle.com/career,424,0,0
+1695276694439,498,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,,44848,1315,85,85,null,424,15653,0
+1695276710142,604,HTTP Request - Carrer,200,OK,Thread Group 1-81,text,true,,44846,1315,84,84,https://www.banglapuzzle.com/career,505,0,0
+1695276694490,604,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,,44846,1315,84,84,null,505,15655,0
+1695276710448,646,HTTP Request - Carrer,200,OK,Thread Group 1-98,text,true,,44858,1315,83,83,https://www.banglapuzzle.com/career,572,0,0
+1695276694797,646,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-98,,true,,44858,1315,83,83,null,572,15653,0
+1695276710789,500,HTTP Request - Carrer,200,OK,Thread Group 1-7,text,true,,44854,1315,82,82,https://www.banglapuzzle.com/career,432,0,0
+1695276695137,500,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,44854,1315,82,82,null,432,15652,0
+1695276710602,757,HTTP Request - Carrer,200,OK,Thread Group 1-37,text,true,,44848,1315,81,81,https://www.banglapuzzle.com/career,544,0,0
+1695276694951,757,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,,44848,1315,81,81,null,544,15653,0
+1695276710804,686,HTTP Request - Carrer,200,OK,Thread Group 1-68,text,true,,44852,1315,80,80,https://www.banglapuzzle.com/career,509,0,0
+1695276695151,686,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,,44852,1315,80,80,null,509,15655,0
+1695276710912,593,HTTP Request - Carrer,200,OK,Thread Group 1-29,text,true,,44854,1315,79,79,https://www.banglapuzzle.com/career,490,0,0
+1695276695261,593,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,,44854,1315,79,79,null,490,15651,0
+1695276711008,585,HTTP Request - Carrer,200,OK,Thread Group 1-26,text,true,,44848,1315,78,78,https://www.banglapuzzle.com/career,521,0,0
+1695276695355,585,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,,44848,1315,78,78,null,521,15654,0
+1695276711064,687,HTTP Request - Carrer,200,OK,Thread Group 1-65,text,true,,44846,1315,77,77,https://www.banglapuzzle.com/career,599,0,0
+1695276695411,687,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,,44846,1315,77,77,null,599,15655,0
+1695276711055,794,HTTP Request - Carrer,200,OK,Thread Group 1-58,text,true,,44850,1315,76,76,https://www.banglapuzzle.com/career,698,0,0
+1695276695403,794,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,,44850,1315,76,76,null,698,15652,0
+1695276710663,1256,HTTP Request - Carrer,200,OK,Thread Group 1-91,text,true,,44854,1315,75,75,https://www.banglapuzzle.com/career,440,0,0
+1695276695012,1256,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-91,,true,,44854,1315,75,75,null,440,15654,0
+1695276711522,494,HTTP Request - Carrer,200,OK,Thread Group 1-45,text,true,,44846,1315,74,74,https://www.banglapuzzle.com/career,424,0,0
+1695276695870,494,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,,44846,1315,74,74,null,424,15654,0
+1695276710948,1142,HTTP Request - Carrer,200,OK,Thread Group 1-62,text,true,,44850,1315,73,73,https://www.banglapuzzle.com/career,701,0,0
+1695276695296,1142,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,,44850,1315,73,73,null,701,15655,0
+1695276711483,788,HTTP Request - Carrer,200,OK,Thread Group 1-83,text,true,,44850,1315,72,72,https://www.banglapuzzle.com/career,539,0,0
+1695276695832,788,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,,44850,1315,72,72,null,539,15653,0
+1695276711678,600,HTTP Request - Carrer,200,OK,Thread Group 1-52,text,true,,44846,1315,71,71,https://www.banglapuzzle.com/career,595,0,0
+1695276696026,600,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,,44846,1315,71,71,null,595,15654,0
+1695276710016,2338,HTTP Request - Carrer,200,OK,Thread Group 1-39,text,true,,44844,1315,70,70,https://www.banglapuzzle.com/career,733,0,0
+1695276694365,2338,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,,44844,1315,70,70,null,733,15652,0
+1695276711883,879,HTTP Request - Carrer,200,OK,Thread Group 1-119,text,true,,44848,1315,69,69,https://www.banglapuzzle.com/career,414,0,0
+1695276696231,879,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-119,,true,,44848,1315,69,69,null,414,15652,0
+1695276712048,724,HTTP Request - Carrer,200,OK,Thread Group 1-100,text,true,,44844,1315,68,68,https://www.banglapuzzle.com/career,715,0,0
+1695276696395,724,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-100,,true,,44844,1315,68,68,null,715,15654,0
+1695276712110,701,HTTP Request - Carrer,200,OK,Thread Group 1-120,text,true,,44848,1315,67,67,https://www.banglapuzzle.com/career,693,0,0
+1695276696458,701,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-120,,true,,44848,1315,67,67,null,693,15652,0
+1695276712179,670,HTTP Request - Carrer,200,OK,Thread Group 1-22,text,true,,44844,1315,66,66,https://www.banglapuzzle.com/career,633,0,0
+1695276696527,670,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,,44844,1315,66,66,null,633,15654,0
+1695276712186,744,HTTP Request - Carrer,200,OK,Thread Group 1-94,text,true,,44846,1315,65,65,https://www.banglapuzzle.com/career,672,0,0
+1695276696533,744,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-94,,true,,44846,1315,65,65,null,672,15655,0
+1695276712216,799,HTTP Request - Carrer,200,OK,Thread Group 1-47,text,true,,44850,1315,64,64,https://www.banglapuzzle.com/career,729,0,0
+1695276696563,799,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,,44850,1315,64,64,null,729,15655,0
+1695276712249,844,HTTP Request - Carrer,200,OK,Thread Group 1-113,text,true,,44848,1315,63,63,https://www.banglapuzzle.com/career,771,0,0
+1695276696597,844,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-113,,true,,44848,1315,63,63,null,771,15654,0
+1695276712412,794,HTTP Request - Carrer,200,OK,Thread Group 1-82,text,true,,44846,1315,62,62,https://www.banglapuzzle.com/career,687,0,0
+1695276696761,794,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,,44846,1315,62,62,null,687,15653,0
+1695276712705,810,HTTP Request - Carrer,200,OK,Thread Group 1-93,text,true,,44854,1315,61,61,https://www.banglapuzzle.com/career,732,0,0
+1695276697053,810,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-93,,true,,44854,1315,61,61,null,732,15654,0
+1695276712361,1193,HTTP Request - Carrer,200,OK,Thread Group 1-76,text,true,,44850,1315,60,60,https://www.banglapuzzle.com/career,812,0,0
+1695276696710,1193,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,,44850,1315,60,60,null,812,15651,0
+1695276712465,1090,HTTP Request - Carrer,200,OK,Thread Group 1-66,text,true,,44856,1315,59,59,https://www.banglapuzzle.com/career,1077,0,0
+1695276696813,1090,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,,44856,1315,59,59,null,1077,15653,0
+1695276712477,1088,HTTP Request - Carrer,200,OK,Thread Group 1-101,text,true,,44846,1315,58,58,https://www.banglapuzzle.com/career,751,0,0
+1695276696825,1088,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-101,,true,,44846,1315,58,58,null,751,15652,0
+1695276713185,500,HTTP Request - Carrer,200,OK,Thread Group 1-49,text,true,,44848,1315,57,57,https://www.banglapuzzle.com/career,428,0,0
+1695276697532,500,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,,44848,1315,57,57,null,428,15655,0
+1695276711648,2137,HTTP Request - Carrer,200,OK,Thread Group 1-43,text,true,,44848,1315,56,56,https://www.banglapuzzle.com/career,1943,0,0
+1695276695997,2137,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,,44848,1315,56,56,null,1943,15654,0
+1695276713372,639,HTTP Request - Carrer,200,OK,Thread Group 1-50,text,true,,44842,1315,55,55,https://www.banglapuzzle.com/career,572,0,0
+1695276697719,639,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,,44842,1315,55,55,null,572,15655,0
+1695276713377,822,HTTP Request - Carrer,200,OK,Thread Group 1-87,text,true,,44846,1315,54,54,https://www.banglapuzzle.com/career,752,0,0
+1695276697725,822,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,,44846,1315,54,54,null,752,15655,0
+1695276713429,953,HTTP Request - Carrer,200,OK,Thread Group 1-79,text,true,,44846,1315,53,53,https://www.banglapuzzle.com/career,880,0,0
+1695276697777,953,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,,44846,1315,53,53,null,880,15654,0
+1695276712753,1633,HTTP Request - Carrer,200,OK,Thread Group 1-104,text,true,,44853,1315,52,52,https://www.banglapuzzle.com/career,818,0,0
+1695276697101,1633,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-104,,true,,44853,1315,52,52,null,818,15655,0
+1695276713411,1003,HTTP Request - Carrer,200,OK,Thread Group 1-88,text,true,,44844,1315,51,51,https://www.banglapuzzle.com/career,763,0,0
+1695276697758,1003,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,,44844,1315,51,51,null,763,15653,0
+1695276713571,938,HTTP Request - Carrer,200,OK,Thread Group 1-116,text,true,,44852,1315,50,50,https://www.banglapuzzle.com/career,869,0,0
+1695276697919,938,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-116,,true,,44852,1315,50,50,null,869,15652,0
+1695276713324,1249,HTTP Request - Carrer,200,OK,Thread Group 1-102,text,true,,44852,1315,49,49,https://www.banglapuzzle.com/career,582,0,0
+1695276697672,1249,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-102,,true,,44852,1315,49,49,null,582,15652,0
+1695276712941,1666,HTTP Request - Carrer,200,OK,Thread Group 1-56,text,true,,44850,1315,48,48,https://www.banglapuzzle.com/career,637,0,0
+1695276697288,1666,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,,44850,1315,48,48,null,637,15654,0
+1695276685295,29313,HTTP Request - About Us,200,OK,Thread Group 1-34,text,true,,65570,615,47,47,https://www.banglapuzzle.com/about,4848,0,3812
+1695276669288,29313,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,,65570,615,47,47,null,4848,16008,3812
+1695276713571,1235,HTTP Request - Carrer,200,OK,Thread Group 1-108,text,true,,44850,1315,47,47,https://www.banglapuzzle.com/career,1039,0,0
+1695276697919,1235,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-108,,true,,44850,1315,47,47,null,1039,15654,0
+1695276713846,990,HTTP Request - Carrer,200,OK,Thread Group 1-109,text,true,,44842,1315,46,46,https://www.banglapuzzle.com/career,979,0,0
+1695276698194,990,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-109,,true,,44842,1315,46,46,null,979,15655,0
+1695276713869,1103,HTTP Request - Carrer,200,OK,Thread Group 1-80,text,true,,44846,1315,45,45,https://www.banglapuzzle.com/career,1036,0,0
+1695276698217,1103,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,,44846,1315,45,45,null,1036,15654,0
+1695276713973,1101,HTTP Request - Carrer,200,OK,Thread Group 1-63,text,true,,44846,1315,44,44,https://www.banglapuzzle.com/career,1039,0,0
+1695276698321,1101,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,,44846,1315,44,44,null,1039,15654,0
+1695276713987,1165,HTTP Request - Carrer,200,OK,Thread Group 1-115,text,true,,44850,1315,43,43,https://www.banglapuzzle.com/career,1099,0,0
+1695276698335,1165,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-115,,true,,44850,1315,43,43,null,1099,15656,0
+1695276712566,2593,HTTP Request - Carrer,200,OK,Thread Group 1-114,text,true,,44848,1315,42,42,https://www.banglapuzzle.com/career,727,0,0
+1695276696913,2593,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-114,,true,,44848,1315,42,42,null,727,15656,0
+1695276713987,1264,HTTP Request - Carrer,200,OK,Thread Group 1-70,text,true,,44846,1315,41,41,https://www.banglapuzzle.com/career,1184,0,0
+1695276698335,1264,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,,44846,1315,41,41,null,1184,15655,0
+1695276713429,1832,HTTP Request - Carrer,200,OK,Thread Group 1-72,text,true,,44846,1315,40,40,https://www.banglapuzzle.com/career,985,0,0
+1695276697777,1832,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,,44846,1315,40,40,null,985,15654,0
+1695276714146,1228,HTTP Request - Carrer,200,OK,Thread Group 1-46,text,true,,44848,1315,39,39,https://www.banglapuzzle.com/career,1158,0,0
+1695276698495,1228,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,,44848,1315,39,39,null,1158,15651,0
+1695276714001,1409,HTTP Request - Carrer,200,OK,Thread Group 1-96,text,true,,44846,1315,38,38,https://www.banglapuzzle.com/career,948,0,0
+1695276698349,1409,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-96,,true,,44846,1315,38,38,null,948,15654,0
+1695276686841,28605,HTTP Request - About Us,200,OK,Thread Group 1-53,text,true,,65570,615,37,37,https://www.banglapuzzle.com/about,1243,0,270
+1695276670834,28605,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,,65570,615,37,37,null,1243,16010,270
+1695276713522,1933,HTTP Request - Carrer,200,OK,Thread Group 1-112,text,true,,44866,1315,37,37,https://www.banglapuzzle.com/career,1286,0,0
+1695276697869,1933,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-112,,true,,44866,1315,37,37,null,1286,15655,0
+1695276714172,1383,HTTP Request - Carrer,200,OK,Thread Group 1-73,text,true,,44852,1315,36,36,https://www.banglapuzzle.com/career,1311,0,0
+1695276698519,1383,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,,44852,1315,36,36,null,1311,15655,0
+1695276714167,1476,HTTP Request - Carrer,200,OK,Thread Group 1-69,text,true,,44850,1315,35,35,https://www.banglapuzzle.com/career,1395,0,0
+1695276698515,1476,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,,44850,1315,35,35,null,1395,15653,0
+1695276714209,1505,HTTP Request - Carrer,200,OK,Thread Group 1-40,text,true,,44850,1315,34,34,https://www.banglapuzzle.com/career,1438,0,0
+1695276698557,1505,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,,44850,1315,34,34,null,1438,15654,0
+1695276713522,2196,HTTP Request - Carrer,200,OK,Thread Group 1-85,text,true,,44846,1315,34,34,https://www.banglapuzzle.com/career,987,0,0
+1695276697869,2196,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,,44846,1315,34,34,null,987,15655,0
+1695276715777,1097,HTTP Request - Carrer,200,OK,Thread Group 1-86,text,true,,44850,1315,32,32,https://www.banglapuzzle.com/career,651,0,0
+1695276700126,1097,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,,44850,1315,32,32,null,651,15652,0
+1695276714731,2153,HTTP Request - Carrer,200,OK,Thread Group 1-103,text,true,,44858,1315,31,31,https://www.banglapuzzle.com/career,1322,0,0
+1695276699079,2153,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-103,,true,,44858,1315,31,31,null,1322,15653,0
+1695276714536,2370,HTTP Request - Carrer,200,OK,Thread Group 1-41,text,true,,44844,1315,30,30,https://www.banglapuzzle.com/career,2068,0,0
+1695276698885,2370,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,,44844,1315,30,30,null,2068,15652,0
+1695276714691,2276,HTTP Request - Carrer,200,OK,Thread Group 1-77,text,true,,44848,1315,29,29,https://www.banglapuzzle.com/career,1405,0,0
+1695276699039,2276,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,,44848,1315,29,29,null,1405,15653,0
+1695276714393,2593,HTTP Request - Carrer,200,OK,Thread Group 1-17,text,true,,44842,1315,28,28,https://www.banglapuzzle.com/career,1470,0,0
+1695276698741,2593,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,,44842,1315,28,28,null,1470,15654,0
+1695276714265,2731,HTTP Request - Carrer,200,OK,Thread Group 1-117,text,true,,44852,1315,27,27,https://www.banglapuzzle.com/career,1618,0,0
+1695276698614,2731,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-117,,true,,44852,1315,27,27,null,1618,15652,0
+1695276715797,1205,HTTP Request - Carrer,200,OK,Thread Group 1-84,text,true,,44848,1315,26,26,https://www.banglapuzzle.com/career,718,0,0
+1695276700145,1205,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,,44848,1315,26,26,null,718,15654,0
+1695276714455,2565,HTTP Request - Carrer,200,OK,Thread Group 1-99,text,true,,44844,1315,25,25,https://www.banglapuzzle.com/career,1484,0,0
+1695276698804,2565,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-99,,true,,44844,1315,25,25,null,1484,15653,0
+1695276714522,2548,HTTP Request - Carrer,200,OK,Thread Group 1-110,text,true,,44852,1315,24,24,https://www.banglapuzzle.com/career,1481,0,0
+1695276698870,2548,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-110,,true,,44852,1315,24,24,null,1481,15654,0
+1695276715606,1476,HTTP Request - Carrer,200,OK,Thread Group 1-106,text,true,,44850,1315,23,23,https://www.banglapuzzle.com/career,1218,0,0
+1695276699955,1476,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-106,,true,,44850,1315,23,23,null,1218,15652,0
+1695276714376,2732,HTTP Request - Carrer,200,OK,Thread Group 1-95,text,true,,44846,1315,22,22,https://www.banglapuzzle.com/career,2350,0,0
+1695276698723,2732,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-95,,true,,44846,1315,22,22,null,2350,15653,0
+1695276714639,2492,HTTP Request - Carrer,200,OK,Thread Group 1-111,text,true,,44846,1315,21,21,https://www.banglapuzzle.com/career,1667,0,0
+1695276698988,2492,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-111,,true,,44846,1315,21,21,null,1667,15652,0
+1695276715040,2092,HTTP Request - Carrer,200,OK,Thread Group 1-97,text,true,,44840,1315,21,21,https://www.banglapuzzle.com/career,1845,0,0
+1695276699388,2092,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-97,,true,,44840,1315,21,21,null,1845,15652,0
+1695276714166,2973,HTTP Request - Carrer,200,OK,Thread Group 1-78,text,true,,44861,1315,19,19,https://www.banglapuzzle.com/career,1576,0,0
+1695276698512,2973,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,,44861,1315,19,19,null,1576,15655,0
+1695276714027,3116,HTTP Request - Carrer,200,OK,Thread Group 1-12,text,true,,44853,1315,18,18,https://www.banglapuzzle.com/career,1384,0,0
+1695276698375,3116,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,,44853,1315,18,18,null,1384,15653,0
+1695276684168,33207,HTTP Request - About Us,200,OK,Thread Group 1-20,text,true,,65560,615,17,17,https://www.banglapuzzle.com/about,9945,0,34
+1695276668157,33207,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,,65560,615,17,17,null,9945,16013,34
+1695276717113,493,HTTP Request - Carrer,200,OK,Thread Group 1-1,text,true,,44850,1315,17,17,https://www.banglapuzzle.com/career,420,0,0
+1695276701461,493,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,44850,1315,17,17,null,420,15652,0
+1695276717146,544,HTTP Request - Carrer,200,OK,Thread Group 1-38,text,true,,44852,616,16,16,https://www.banglapuzzle.com/career,465,0,23
+1695276701494,544,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,,44852,616,16,16,null,465,15653,23
+1695276714638,3093,HTTP Request - Carrer,200,OK,Thread Group 1-92,text,true,,44850,1315,15,15,https://www.banglapuzzle.com/career,1383,0,0
+1695276698987,3093,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-92,,true,,44850,1315,15,15,null,1383,15653,0
+1695276714458,3301,HTTP Request - Carrer,200,OK,Thread Group 1-105,text,true,,44848,1315,14,14,https://www.banglapuzzle.com/career,1689,0,0
+1695276698807,3301,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-105,,true,,44848,1315,14,14,null,1689,15652,0
+1695276714669,3247,HTTP Request - Carrer,200,OK,Thread Group 1-60,text,true,,44848,1315,13,13,https://www.banglapuzzle.com/career,2244,0,0
+1695276699018,3247,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,,44848,1315,13,13,null,2244,15653,0
+1695276717610,473,HTTP Request - Carrer,200,OK,Thread Group 1-118,text,true,,44848,1315,12,12,https://www.banglapuzzle.com/career,398,0,0
+1695276701959,473,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-118,,true,,44848,1315,12,12,null,398,15653,0
+1695276717945,460,HTTP Request - Carrer,200,OK,Thread Group 1-90,text,true,,44852,1315,11,11,https://www.banglapuzzle.com/career,388,0,0
+1695276702294,460,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-90,,true,,44852,1315,11,11,null,388,15654,0
+1695276718652,530,HTTP Request - Carrer,200,OK,Thread Group 1-61,text,true,,44850,1315,10,10,https://www.banglapuzzle.com/career,468,0,0
+1695276703000,530,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,,44850,1315,10,10,null,468,15654,0
+1695276718070,1249,HTTP Request - Carrer,200,OK,Thread Group 1-89,text,true,,44859,1315,9,9,https://www.banglapuzzle.com/career,416,0,0
+1695276702418,1249,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-89,,true,,44859,1315,9,9,null,416,15652,0
+1695276720555,736,HTTP Request - Carrer,200,OK,Thread Group 1-51,text,true,,44855,1315,8,8,https://www.banglapuzzle.com/career,443,0,0
+1695276704903,736,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,,44855,1315,8,8,null,443,15654,0
+1695276721876,473,HTTP Request - Carrer,200,OK,Thread Group 1-15,text,true,,44846,1315,7,7,https://www.banglapuzzle.com/career,418,0,0
+1695276706223,473,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,,44846,1315,7,7,null,418,15654,0
+1695276722418,713,HTTP Request - Carrer,200,OK,Thread Group 1-35,text,true,,44850,1315,6,6,https://www.banglapuzzle.com/career,661,0,0
+1695276706766,713,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,,44850,1315,6,6,null,661,15653,0
+1695276687752,42746,HTTP Request - About Us,200,OK,Thread Group 1-64,text,true,,65568,615,5,5,https://www.banglapuzzle.com/about,1313,0,493
+1695276671747,42746,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,,65568,615,5,5,null,1313,16008,493
+1695276730261,501,HTTP Request - Carrer,200,OK,Thread Group 1-34,text,true,,44846,1315,5,5,https://www.banglapuzzle.com/career,425,0,0
+1695276714609,501,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,,44846,1315,5,5,null,425,15654,0
+1695276731101,726,HTTP Request - Carrer,200,OK,Thread Group 1-53,text,true,,44848,1315,4,4,https://www.banglapuzzle.com/career,647,0,0
+1695276715449,726,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,,44848,1315,4,4,null,647,15654,0
+1695276733029,475,HTTP Request - Carrer,200,OK,Thread Group 1-20,text,true,,44846,1315,3,3,https://www.banglapuzzle.com/career,394,0,0
+1695276717377,475,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,,44846,1315,3,3,null,394,15655,0
+1695276686139,55296,HTTP Request - About Us,200,OK,Thread Group 1-44,text,true,,65570,615,2,2,https://www.banglapuzzle.com/about,3647,0,2581
+1695276670132,55296,About Us,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,,65570,615,2,2,null,3647,16008,2581
+1695276757087,794,HTTP Request - Carrer,200,OK,Thread Group 1-44,text,true,,44846,1315,2,2,https://www.banglapuzzle.com/career,721,0,37
+1695276741436,794,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,,44846,1315,2,2,null,721,15652,37
+1695276746153,33190,HTTP Request - Carrer,200,OK,Thread Group 1-64,text,true,,44844,1315,1,1,https://www.banglapuzzle.com/career,4439,0,0
+1695276730501,33190,Career,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,,44844,1315,1,1,null,4439,15653,0
