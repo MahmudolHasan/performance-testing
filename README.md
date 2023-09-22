@@ -177,5 +177,5 @@ See [Report Generation](#report-generation) section to  create a jtl  file and g
 | :-------------: | :--------: |
 | ![Pie Chart](images/Load_Testing/r110pi.PNG) | ![Request Stats](images/Spike_Testing/spike_stats.PNG) |
 ### Spike Test Verdict
-We can see that during the spike the servers was stable and could send response back.
+During the spike, the servers remained stable and were able to send responses without interruption.
   
