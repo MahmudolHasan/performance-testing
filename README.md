@@ -20,7 +20,7 @@ This project aims to assess the performance of the BanglaPuzzle website under va
 2. Install JMeter by following the instructions on the [official website](https://jmeter.apache.org/)
 
 3. Clone this repository 
-4. Open JMeter and load the test plan located in the `jmeter-scripts` directory
+4. Open JMeter and load the test plan located in the `jmx_files` directory
 5. Configure JMeter properties and variables as needed
 6. Execute the test plan and monitor the results
 
