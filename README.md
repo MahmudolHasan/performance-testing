@@ -52,9 +52,10 @@ Throughout this performance testing, we worked with the same API collection.
  - [www.banglapuzzle.com/career](https://www.banglapuzzle.com/career)
 
 ### Report Generation
-Report Generation will be the same procedure for each test. We will use the non-GUI option/command prompt to create a report.<br>
-*Run these commands from the bin folder of the jmeter installation folder.*
-\
+Report Generation will be the same procedure for each test. We will use the non-GUI option/command prompt to create a report.
+
+<br>*Run these commands from the bin folder of the jmeter installation folder.*
+<br>
 Creating .jtl file: <br>
 `jmeter -n -t jmx_filepath -l jtl_filepath` 
 \
