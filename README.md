@@ -53,6 +53,7 @@ Throughout this performance testing, we worked with the same API collection.
 
 ### Report Generation
 Report Generation will be the same procedure for each test. We will use the non-GUI option/command prompt to create a report.<br>
+*Run these commands from the bin folder of the jmeter installation folder.*
 \
 Creating .jtl file: <br>
 `jmeter -n -t jmx_filepath -l jtl_filepath` 
@@ -60,7 +61,7 @@ Creating .jtl file: <br>
 Creating Report: <br>
 `jmeter -g jtl_filepath -o report_folder` 
 
-Run first commands for each jmx script to generate a jtl file and run second commad to generate report with created jtl file from the first command.    
+Run the first command for each jmx script to generate a jtl file and run the second command to generate a report with created jtl file from the first command.    
 Example:
 Creating a jtl file from endurance testing <br>
 `jmeter -n -t jmx_files\Endurance_Testing\endurance.jmx -l jtl_files\Endurance_Testing\endurance.jtl`
